@@ -20,7 +20,7 @@ It ensures the password is strong and provides feedback if it is invalid.
 
 ## Sample Output
 
-![Java Output](../docs/passval.png)
+![Java Output](docs/passval.png)
 
 ---
 
