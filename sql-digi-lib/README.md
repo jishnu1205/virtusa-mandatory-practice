@@ -68,6 +68,27 @@ USE library_db;
 ![Overdue](docs%2Fscreenshots/category.png)
 
 ---
+##  Database Preview
+
+###  Books Table
+
+![Books Table](docs%2Fscreenshots/books.png)
+
+---
+
+###  Students Table
+
+![Students Table](docs%2Fscreenshots/students.png)
+
+---
+
+### IssuedBooks Table
+
+![IssuedBooks Table](docs%2Fscreenshots/issuedbooks.png)
+
+---
+
+
 
 ## Author
 
