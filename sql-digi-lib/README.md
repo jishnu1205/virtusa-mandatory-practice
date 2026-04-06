@@ -59,13 +59,13 @@ USE library_db;
 
 ### Overdue Books
 
-![Overdue](../docs/screenshots/overdue.png)
+![Overdue](../docs/../screenshots/overdue.png)
 
 ---
 
 ### Category Analysis
 
-![Category](../docs/screenshots/category.png)
+![Category](../docs/../screenshots/category.png)
 
 ---
 
